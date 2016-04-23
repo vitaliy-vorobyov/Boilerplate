@@ -1,0 +1,21 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Boilerplate description",
+  "author": {
+    "name": "Vitaliy Vorobyov",
+    "email": "donsteel@rambler.ru"
+  },
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vitaliy-vorobyov/Boilerplate.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-concat": "^2.6.0",
+    "gulp-watch": "^4.3.5"
+  }
+}
